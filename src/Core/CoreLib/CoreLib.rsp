@@ -1,0 +1,4 @@
+# This file contains command-line options that the C#
+# command line compiler (CSC) will process as part
+# of every compilation.
+/runtimemetadataversion:2.0
